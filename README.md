@@ -1,1 +1,1 @@
-# Rate-a-Restaraunt
+# Rate-a-Restaurant
